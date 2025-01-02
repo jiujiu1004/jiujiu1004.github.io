@@ -1,0 +1,1 @@
+function goEdit(){let n=window.location.pathname;n.endsWith("/")&&(n=n.substring(0,n.length-1));window.open("https://github.dev/Musicminion/blog/blob/main/source/_posts"+n+".md")}document.addEventListener("keydown",(function(n){"."===n.key&&goEdit()}));

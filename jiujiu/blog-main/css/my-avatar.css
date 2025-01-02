@@ -1,0 +1,1 @@
+.my-avatar:hover{transform:rotate(360deg)}.my-avatar{width:150px;height:150px;border-radius:50%;transition:transform .5s;border:5px solid #ddd;margin-bottom:50px}
