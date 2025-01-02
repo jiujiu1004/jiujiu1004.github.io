@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>xulong的小站</title>
+    <link>https://xulong0826.github.io/blog/</link>
+    
+    <atom:link href="https://xulong0826.github.io/blog/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 14 Dec 2024 15:01:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>镜像源及 Host 加速的设置</title>
+      <link>https://xulong0826.github.io/blog/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/</link>
+      <guid>https://xulong0826.github.io/blog/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/</guid>
+      <pubDate>Sat, 14 Dec 2024 12:35:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;镜像源及-Host-加速的设置&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#镜像源及-Host-加速的设置&quot;&gt;¶&lt;/a&gt;镜像源及 Host 加速的设置&lt;/h2&gt;
+&lt;h3 id=&quot;配置-pip-镜像源&quot;&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://xulong0826.github.io/blog/tags/github/">github</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/conda/">conda</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/host/">host</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/pip/">pip</category>
+      
+      
+      <comments>https://xulong0826.github.io/blog/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>git的常用命令及hexo部署githubpages</title>
+      <link>https://xulong0826.github.io/blog/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/</link>
+      <guid>https://xulong0826.github.io/blog/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;Git 操作示例&lt;/h1&gt;
+&lt;p&gt;以 &lt;code&gt;https://github.com/xulong0826/blog-code&lt;/code&gt; 为例&lt;/p&gt;
+&lt;h2 id=&quot;克隆远程仓库&quot;&gt;&lt;a class=&quot;header-anchor&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://xulong0826.github.io/blog/tags/blog/">blog</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/git/">git</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/github/">github</category>
+      
+      <category domain="https://xulong0826.github.io/blog/tags/hexo/">hexo</category>
+      
+      
+      <comments>https://xulong0826.github.io/blog/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
